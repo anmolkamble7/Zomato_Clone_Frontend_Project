@@ -1,6 +1,6 @@
 Title: MyZomato Frontend Clone - A User-Friendly Restaurant Discovery and Food Ordering Interface
 
-Description: Welcome to MyZomato Frontend Clone, a project inspired by the popular Zomato platform! This repository showcases my efforts in creating a sleek and responsive user interface for a restaurant discovery and food ordering application. Crafted using HTML, CSS the frontend ensures an intuitive and visually appealing experience for users. From seamless navigation to enticing restaurant listings and an efficient order placement process, this project encapsulates the essence of a modern food delivery platform. Aspiring developers and UI enthusiasts, feel free to explore, contribute, and customize this frontend clone to hone your skills and add your unique touch to the world of restaurant applications. Fork the repository, dive in, and let's elevate the dining experience together!
+Description:Welcome to MyZomato, a frontend clone project inspired by the popular Zomato platform! This GitHub repository showcases my efforts in replicating the user interface for restaurant discovery and food ordering. Developed with HTML, CSS, MyZomato features a clean, responsive design to provide an immersive user experience across devices. 
 
 
 ![Zomato-Clone-Home](https://github.com/anmolkamble7/Zomato_Clone_Frontend_Project/assets/157481921/d39d2db5-b5e9-4f07-9d9a-63af3ff6de8d)
